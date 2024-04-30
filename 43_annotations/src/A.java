@@ -1,0 +1,4 @@
+@UninheritedAnnotationType
+public class A {
+
+}

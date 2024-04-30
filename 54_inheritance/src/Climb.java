@@ -1,0 +1,3 @@
+interface Climb {
+    void climb();
+}

@@ -1,0 +1,3 @@
+interface Think {
+    void think();
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_primitive_data_types/10_primitive_data_types.iml" filepath="$PROJECT_DIR$/10_primitive_data_types/10_primitive_data_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_strings/11_strings.iml" filepath="$PROJECT_DIR$/11_strings/11_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_stringBuffer/12_stringBuffer.iml" filepath="$PROJECT_DIR$/12_stringBuffer/12_stringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_stringBuilder/13_stringBuilder.iml" filepath="$PROJECT_DIR$/13_stringBuilder/13_stringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_StringTokenizer/14_StringTokenizer.iml" filepath="$PROJECT_DIR$/14_StringTokenizer/14_StringTokenizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_splitting_a_string_into_fixed_length_parts/15_splitting_a_string_into_fixed_length_parts.iml" filepath="$PROJECT_DIR$/15_splitting_a_string_into_fixed_length_parts/15_splitting_a_string_into_fixed_length_parts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_date_class/16_date_class.iml" filepath="$PROJECT_DIR$/16_date_class/16_date_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_datesAndTime_javatime/17_datesAndTime_javatime.iml" filepath="$PROJECT_DIR$/17_datesAndTime_javatime/17_datesAndTime_javatime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_localTime/18_localTime.iml" filepath="$PROJECT_DIR$/18_localTime/18_localTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_BigDecimal/19_BigDecimal.iml" filepath="$PROJECT_DIR$/19_BigDecimal/19_BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_GettingstartedwithJava/1_GettingstartedwithJava.iml" filepath="$PROJECT_DIR$/1_GettingstartedwithJava/1_GettingstartedwithJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_biginteger/20_biginteger.iml" filepath="$PROJECT_DIR$/20_biginteger/20_biginteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_NumberFormat/21_NumberFormat.iml" filepath="$PROJECT_DIR$/21_NumberFormat/21_NumberFormat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_type_conversion/2_type_conversion.iml" filepath="$PROJECT_DIR$/2_type_conversion/2_type_conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_getters_and_setters/3_getters_and_setters.iml" filepath="$PROJECT_DIR$/3_getters_and_setters/3_getters_and_setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_reference_data_types/4_reference_data_types.iml" filepath="$PROJECT_DIR$/4_reference_data_types/4_reference_data_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_java_compiler_javac/5_java_compiler_javac.iml" filepath="$PROJECT_DIR$/5_java_compiler_javac/5_java_compiler_javac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_documenting_java_code/6_documenting_java_code.iml" filepath="$PROJECT_DIR$/6_documenting_java_code/6_documenting_java_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_command_line_argument_processing/7_command_line_argument_processing.iml" filepath="$PROJECT_DIR$/7_command_line_argument_processing/7_command_line_argument_processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_the_java_command_java_and_javaw/8_the_java_command_java_and_javaw.iml" filepath="$PROJECT_DIR$/8_the_java_command_java_and_javaw/8_the_java_command_java_and_javaw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_literals/9_literals.iml" filepath="$PROJECT_DIR$/9_literals/9_literals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/belajarJava.iml" filepath="$PROJECT_DIR$/.idea/belajarJava.iml" />
+    </modules>
+  </component>
+</project>

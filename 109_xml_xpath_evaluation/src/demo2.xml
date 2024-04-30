@@ -1,0 +1,24 @@
+<documentation>
+ <tags>
+ <tag name="Java">
+ <topic name="Regular expressions">
+ <example>Matching groups</example>
+ <example>Escaping metacharacters</example>
+ </topic>
+ <topic name="Arrays">
+ <example>Looping over arrays</example>
+ <example>Converting an array to a list</example>
+ </topic>
+ </tag>
+ <tag name="Android">
+ <topic name="Building Android projects">
+ <example>Building an Android application using Gradle</example>
+ <example>Building an Android application using Maven</example>
+ </topic>
+ <topic name="Layout resources">
+ <example>Including layout resources</example>
+ <example>Supporting multiple device screens</example>
+ </topic>
+ </tag>
+ </tags>
+</documentation>

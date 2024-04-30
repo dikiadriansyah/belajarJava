@@ -1,0 +1,3 @@
+interface IPrintName {
+    void printName();
+}
